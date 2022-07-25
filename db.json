@@ -1,0 +1,161 @@
+{
+  "companyInfo": {
+    "address": "Gulburg III Lahore",
+    "city": "Lahore",
+    "companyName": "Pinlight Studio",
+    "contactNO": "0321446881",
+    "country": "Pakistan",
+    "email": "taqadus.rehman@gmail.com",
+    "logo": null,
+    "personName": "Taqadus Rehman",
+    "signature": null,
+    "state": "Punjab",
+    "website": "pinlight.pk",
+    "zipCode": "54000"
+  },
+  "customers": [
+    {
+      "id": 1,
+      "address": "House 1",
+      "city": "lahore",
+      "companyName": "Zanaen",
+      "contactNO": "03204405836",
+      "country": "Pakistan",
+      "customerName": "Zanaen",
+      "email": "zanaenu,llah75@gmail.com",
+      "zipCode": "545544"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "discount": "15",
+      "ischeckd": false,
+      "packageDescription": "Package 1 Desc",
+      "packageName": "Package 1",
+      "packagePrice": "80000",
+      "quantity": "5",
+      "total": 340000,
+      "unit": "Photo"
+    },
+    {
+      "id": 2,
+      "discount": "15",
+      "ischeckd": false,
+      "packageDescription": "Package 2 Desc",
+      "packageName": "Package 2",
+      "packagePrice": "80000",
+      "quantity": "5",
+      "total": 340000,
+      "unit": "Photo"
+    }
+  ],
+  "TermsAndConditions": [
+    {
+      "id": 1,
+      "term": "A non-refundable 40% deposit (advance) is due upon booking",
+      "termDescription": "A non-refundable 40% deposit (advance) is due upon booking"
+    },
+    {
+      "id": 2,
+      "term": "Remaining 60% due amount shall be made in two equal installments (30% each) at the i) end of event ii) time of video and album delivery",
+      "termDescription": "Remaining 60% due amount shall be made in two equal installments (30% each) at the i) end of event ii) time\nof video and album delivery"
+    },
+    {
+      "id": 3,
+      "term": "The video and albums shall be delivered no later than 90 days from the date of client approval",
+      "termDescription": "The video and albums shall be delivered no later than 90 days from the date of client approval"
+    },
+    {
+      "id": 4,
+      "term": "Photographer must be notified of any change in schedule or location atleast 4 days in advance",
+      "termDescription": "Photographer must be notified of any change in schedule or location atleast 4 days in advance"
+    },
+    {
+      "id": 5,
+      "term": "Any fee/charges on outdoor location is client's responsibility",
+      "termDescription": "Any fee/charges on outdoor location is client's responsibility"
+    },
+    {
+      "id": 6,
+      "term": "Payment can be made only through cash or bank transfer",
+      "termDescription": "Payment can be made only through cash or bank transfer\n"
+    }
+  ],
+  "Quotations": [
+    {
+      "quotationNo": "2207001",
+      "date": "23-July-2022",
+      "totalTempPrioce": 680000,
+      "customer": {
+        "id": 1,
+        "address": "House 1",
+        "city": "lahore",
+        "companyName": "Zanaen",
+        "contactNO": "03204405836",
+        "country": "Pakistan",
+        "customerName": "Zanaen",
+        "email": "zanaenu,llah75@gmail.com",
+        "zipCode": "545544"
+      },
+      "packages": [
+        {
+          "id": 1,
+          "discount": "15",
+          "ischeckd": false,
+          "packageDescription": "Package 1 Desc",
+          "packageName": "Package 1",
+          "packagePrice": "80000",
+          "quantity": "5",
+          "total": 340000,
+          "unit": "Photo"
+        },
+        {
+          "id": 2,
+          "discount": "15",
+          "ischeckd": false,
+          "packageDescription": "Package 2 Desc",
+          "packageName": "Package 2",
+          "packagePrice": "80000",
+          "quantity": "5",
+          "total": 340000,
+          "unit": "Photo"
+        }
+      ],
+      "terms": [
+        {
+          "id": 1,
+          "term": "A non-refundable 40% deposit (advance) is due upon booking",
+          "termDescription": "A non-refundable 40% deposit (advance) is due upon booking"
+        },
+        {
+          "id": 2,
+          "term": "Remaining 60% due amount shall be made in two equal installments (30% each) at the i) end of event ii) time of video and album delivery",
+          "termDescription": "Remaining 60% due amount shall be made in two equal installments (30% each) at the i) end of event ii) time\nof video and album delivery"
+        },
+        {
+          "id": 3,
+          "term": "The video and albums shall be delivered no later than 90 days from the date of client approval",
+          "termDescription": "The video and albums shall be delivered no later than 90 days from the date of client approval"
+        }
+      ],
+      "tempArray": [
+        [
+          "Package 1",
+          "5",
+          "80000",
+          "15",
+          340000
+        ],
+        [
+          "Package 2",
+          "5",
+          "80000",
+          "15",
+          340000
+        ]
+      ],
+      "id": 1
+    }
+  ]
+}
